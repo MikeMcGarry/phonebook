@@ -1,2 +1,2 @@
 # phonebook
-Scrape phone numbers for the signatures of your lead's emails
+Scrape phone numbers from the signatures of your lead's emails
